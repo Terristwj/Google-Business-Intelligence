@@ -39,8 +39,8 @@ In addition to expert training and hands-on projects, you'll complete a portfoli
 
 ## Skills you’ll gain:
 
-|       <!-- -->        |             <!-- -->             |          <!-- -->          |     <!-- -->     |           <!-- -->           |
-| :-------------------: | :------------------------------: | :------------------------: | :--------------: | :--------------------------: |
-|     Data Modeling     |        Business Analysis         |          Bigquery          |      Sheets      |        Data Analysis         |
-|      Extraction       | Transformation And Loading (ETL) |      Business Process      | Tableau Software | Data Visualization (DataViz) |
-| Business Intelligence |               SQL                | Dashboarding and Reporting |                  |                              |
+|       Business        |             Data             |           Presentation           |     Programs     | Langauage |
+| :-------------------: | :--------------------------: | :------------------------------: | :--------------: | :-------: |
+|   Business Analysis   |        Data Analysis         |            Extraction            | Tableau Software |    SQL    |
+|   Business Process    |        Data Modeling         | Transformation And Loading (ETL) |     Bigquery     |           |
+| Business Intelligence | Data Visualization (DataViz) |    Dashboarding and Reporting    |      Sheets      |           |
